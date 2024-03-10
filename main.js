@@ -9,4 +9,6 @@ function e() {
   }
 }
 
+e()
+
 console.log("Hello, World")
